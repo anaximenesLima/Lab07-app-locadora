@@ -24,6 +24,8 @@
 ![image](https://github.com/user-attachments/assets/3205e37c-6fae-41c8-b1bc-df9dd122f0b2)
 ## 1.3 Iniciando o projeto no porta 5001:
 ![image](https://github.com/user-attachments/assets/68908fa3-0714-422f-921a-e94329c43bf4)
+## 2.  Criando as tabelas:
+![image](https://github.com/user-attachments/assets/d1e672c3-5920-4e01-8e3f-74fb4e0dc544)
 
 
 
