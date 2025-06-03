@@ -19,6 +19,12 @@
 
 ## 1.8 Criando o Key Vault:
 ![image](https://github.com/user-attachments/assets/839f6578-ee8a-4cd3-a50b-df78a1a0745b)
+## 2. Desenvolvimento da API aluguel de carros.
+## 1.2 Intalando as dependências:
+![image](https://github.com/user-attachments/assets/3205e37c-6fae-41c8-b1bc-df9dd122f0b2)
+## 1.3 Iniciando o projeto no porta 5001:
+![image](https://github.com/user-attachments/assets/68908fa3-0714-422f-921a-e94329c43bf4)
+
 
 
 
